@@ -1,7 +1,7 @@
 ---
 title: Tees Valley Ceilidhs
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/jxlxuwxx-2kxwhgxx-vbpenqxx-blqw5qxx.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
