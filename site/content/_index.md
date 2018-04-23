@@ -1,6 +1,6 @@
 ---
 title: Tees Valley Ceilidhs
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Family ceilidhs
 image: /img/jxlxuwxx-2kxwhgxx-vbpenqxx-blqw5qxx.jpg
 blurb:
   heading: ''
